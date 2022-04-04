@@ -14,6 +14,6 @@ Primer repo compus
 
 :+1:
 
-:Sparkles:
+:sparkles:
 
 Link del proyecto: [Aula virtual Laboratorio de Compus 2] (https://campusvirtual.ucc.edu.ar/enrol/index.php?id=6694)
