@@ -4,7 +4,7 @@ Primer repo compus
 ## Autor
 * Pedro **Cajal**
 
-## COntenido/Descripcion
+## Contenido/Descripcion
 
 | Email | Autor |
 |-------|-------|
